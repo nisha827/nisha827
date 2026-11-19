@@ -3,7 +3,7 @@
 
 I am a Machine Learning Research Engineer with **10+ years of experience** across applied machine learning, deep learning research, industrial AI and intelligent systems.
 
-My work spans research, experimentation and engineering — from designing neural architectures and exploring representation-learning approaches to developing intelligent systems for real-world problems.
+My work spans research, experimentation and engineering from designing neural architectures and exploring representation-learning approaches to developing intelligent systems for real-world problems.
 
 I enjoy investigating challenging problems, understanding model behaviour, evaluating alternative approaches and translating research ideas into practical, reliable AI solutions.
 
