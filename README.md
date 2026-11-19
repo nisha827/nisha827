@@ -1,4 +1,4 @@
-# Nisha P.
+# Nisha P
 ### Machine Learning Research Engineer | Applied AI | Deep Learning
 
 I am a Machine Learning Research Engineer with **10+ years of experience** across applied machine learning, deep learning research, industrial AI and intelligent systems.
